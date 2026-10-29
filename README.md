@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-CAD-yellow.svg)
-![Series](https://img.shields.io/badge/Edition-Spider%20Man-red.svg)
+![Series](https://img.shields.io/badge/Edition-Avengers-red.svg)
 
 
 
@@ -27,20 +27,20 @@
 
 <div align="center"> 
 
-<img width="572" height="406" alt="image" src="https://github.com/user-attachments/assets/85de1502-b1d2-46a8-ac6d-76a1295faafb" />
-<img width="385" height="441" alt="image" src="https://github.com/user-attachments/assets/46253694-1a7f-43bd-9f23-2b88a03a28a5" />
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/34571058-ee8c-4ced-aea7-1d2447a31fb7" />
+
 
 
 </div>
 
   
-## printable: 
+## printable: https://www.printables.com/model/1894874-avengers-bookmark
 ## About the Project
-### **Spider-Man-Bookmark** - It is 3d printable Spider Man Theme bookmark in Fusion 360. which can used to clip Specific page.
+### **Avengers-Bookmark** - It is 3d printable Spider Man and Iron man bookmark Design in Fusion 360. which can used to clip Specific page.
 
 
 ## why i made this?
-### So i want a Bookmark and i have a 3s printer So i thought why not to make your own.
+### So i want a Bookmark and i have a 3d printer So i thought why not to make your own.
 
 ## Repository Structure
 - `src/` - project sources
@@ -51,7 +51,8 @@
 
 ## CAD 
 <div align="center">
-<img width="1078" height="594" alt="image" src="https://github.com/user-attachments/assets/3ed9d39a-8324-47a2-b7f3-90ce0c10b3e8" />
+<img width="1078" height="594" alt="image" src="https://github.com/user-attachments/assets/4491ed21-578e-49fa-8685-ba26314e3714" />
+
 
 
 
@@ -68,11 +69,11 @@ Source: `BOM.csv`
 
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
-|PetG filament|8gram| 0.2$   |https://india.numakers.com/products|
+|PetG filament|15gram| 0.3$   |https://india.numakers.com/products|
 
 ## Production
 <div align="center">
-<img width="893" height="578" alt="image" src="https://github.com/user-attachments/assets/c932c36f-b5c6-4d0a-96f2-9a220838a07c" />
+<img width="893" height="578" alt="image" src="https://github.com/user-attachments/assets/265d6e60-093d-49ee-b936-d3730bc05c47" />
 
  </div>
 
